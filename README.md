@@ -1,0 +1,1 @@
+This repository contains an example of a buffer overflow vulnerability in C. The bug.c file demonstrates the vulnerable code, while bugSolution.c offers a safer alternative.  Buffer overflows are serious security risks, and it's crucial to understand how to avoid them.
